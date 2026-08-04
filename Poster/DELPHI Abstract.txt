@@ -1,0 +1,13 @@
+﻿Title: Exploring Large Language Models for Pathogen Genomic Metadata Extraction
+
+
+Abstract: 
+The lack of standardized pathogen sequence metadata poses significant challenges for interoperability and use in public health research. Currently, due to the various formats of information spread across lab reports, publications, and datasets, manually compiling relevant data is time intensive, costly, and inefficient with the emergence of new pathogens. The aim of this project is to develop a Large Language Model (LLM) pipeline to automate the extraction and harmonization of metadata from unstructured text sources to develop structured pathogen metadata repositories. In this project we created a reference dataset of studies containing respiratory virus metadata, which will be used to evaluate the LLM pipeline for accuracy and completeness. To test the performance of the LLMs, prompts will be iteratively engineered to achieve optimal extraction of metadata from each study. This will allow for consistent access to pathogen sequence metadata for public health laboratories across the United States.
+
+
+Acknowledgments:
+This poster was supported by Cooperative Agreement NU60OE000104 (CFDA #93.322),
+funded by the Centers for Disease Control and Prevention through the Association of Public
+Health Laboratories. Its contents are solely the responsibility of the authors and do not
+necessarily represent the official views of the Centers for Disease Control and Prevention or the
+Association of Public Health Laboratories.

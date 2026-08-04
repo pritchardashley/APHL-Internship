@@ -1,0 +1,30 @@
+﻿Ashley Pritchard
+University of Utah, Department of Biomedical Informatics
+School of Medicine University of Utah Salt Lake City, Utah, USA
+(206) 859-7654
+ashley.pritchard@utah.edu
+
+
+Title: Discovering and Harmonizing Pathogen Genomic Metadata with Large Language Models
+
+
+The rise in genome sequencing has improved public health by allowing for the monitoring, characterization, and identification of emerging pathogens. However, the lack of standardized pathogen sequence metadata poses significant challenges for interoperability and use in public health research. Metadata, data that describes data, is essential for the development of public health information systems and in turn for supporting accurate analysis, understanding genomic information, and informing public health decision-making. Currently, due to variations in semantics and formats of information spread across public health jurisdictions, laboratories employ diverse workflows, sequencing platforms, laboratory information systems, and reporting practices, publications, and datasets, resulting in substantial differences in how pathogen metadata is generated and represented. Manually compiling relevant data is time intensive, costly, and inefficient with the continuing emergence of new pathogens. This lack of standardization represents a significant barrier to scalable data integration and reuse, rather than a simple formatting challenge. Recent advances in artificial methods present a unique opportunity to address these challenges by automating and standardizing metadata extraction [1].
+The aim of this project is to develop a Large Language Model (LLM) pipeline to automate the extraction and harmonization of metadata from unstructured text sources and develop structured, FAIR-aligned pathogen metadata repositories. Multiple LLMs were evaluated for preliminary metadata data extraction. Evaluation of the pipeline will be completed using a reference dataset, containing manually curated metadata for five pathogens: SARS-CoV-2, Influenza, Respiratory Syncytial Virus, Tuberculosis, and Candida auris. To test the performance of the LLMs, prompts will be iteratively engineered to achieve optimal zero-shot extraction of metadata from each study ensuring accuracy and completeness. This will allow for consistent access to pathogen sequence metadata for public health laboratories across the United States.
+Preliminary results showed a greater than 98% reduction in processing time compared to manual curation with an average precision of 84%. The next steps are to make a more complete evaluation corpus, double up extractions using more advanced methods such as one-shot prompting, and utilizing more advanced LLMs. Despite variability and incompleteness in available metadata, automated extraction using LLMs performed relatively well, supporting their ability to be utilized for the extraction and harmonization of pathogen genomic metadata.
+
+
+Reference
+ 
+1.         Scaling Sensor Metadata Extraction for Exposure Health Using LLMs, Fatemeh Shah-Mohammadi, Sunho Im, Julio C. Facelli, Mollie R. Cummins, Ram Gouripeddi, medRxiv 2025.08.21.25334173; doi: https://doi.org/10.1101/2025.08.21.25334173
+
+
+
+
+
+
+Please state your career goals and how attending this conference will help you achieve those goals
+
+
+My long-term career goal is to work in drug discovery, with a focus on leveraging genomics and computational methods to better understand disease mechanisms and identify therapeutic candidates. I also have strong interests in precision medicine, particularly within cancer research. Attending this conference will support these goals by exposing me to advances in genomics, data science, and public health informatics.
+Presenting my work will allow me to receive feedback from experts in the field, refine my technical approach, and gain insight into how similar methodologies are applied in industry and translational research. The opportunity to interact with researchers developing AI and machine learning based approaches will help me better understand how these techniques can be translated into tools I can utilize for drug discovery and precision medicine.
+Additionally, the conference will provide valuable networking opportunities with professionals working in genomics, computational biology, public health, and translational science. These interactions will help me identify potential career pathways, collaborations, and mentorship opportunities aligned with my interests in drug discovery, genomics, and precision medicine. Overall, attending this conference will help bridge my current research experience with my long-term goals to contribute to data-driven research and innovation that support public health decision-making and improve health outcomes.
