@@ -1,4 +1,4 @@
-This folder contains posters that I have presented.
+This folder contains posters that I have presented along with the submitted abstracts.
 
 Pritchard, A., Christensen E., Shah-Mohammadi, F., Gouripeddi, R, & Eilbeck, K. (2025).
 Exploring Large Language Models for Pathogen Genomic Metadata Extraction. 
